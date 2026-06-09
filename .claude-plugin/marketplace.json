@@ -1,0 +1,27 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "jetmech-plugins",
+  "description": "Personal Claude Code plugin collection.",
+  "owner": {
+    "name": "Joe Le Sage",
+    "email": "josephlesage84@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "obsidian",
+      "displayName": "Obsidian",
+      "source": "./plugins/obsidian",
+      "description": "A growing toolkit for managing an Obsidian vault — triage, organisation, and more.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Joe Le Sage",
+        "email": "josephlesage84@gmail.com"
+      },
+      "homepage": "https://github.com/jetmech/claude-plugins/tree/main/obsidian",
+      "repository": "https://github.com/jetmech/claude-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["obsidian", "notes", "pkm", "vault", "triage"]
+    }
+  ]
+}
