@@ -1,6 +1,5 @@
 {
   "name": "obsidian",
-  "version": "0.1.0",
   "description": "A growing toolkit for managing an Obsidian vault — triage, organisation, and more.",
   "author": {
     "name": "Joe Le Sage",

@@ -12,7 +12,6 @@
       "displayName": "Obsidian",
       "source": "./plugins/obsidian",
       "description": "A growing toolkit for managing an Obsidian vault — triage, organisation, and more.",
-      "version": "0.1.0",
       "author": {
         "name": "Joe Le Sage",
         "email": "josephlesage84@gmail.com"
